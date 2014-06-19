@@ -1,0 +1,7 @@
+/hieradata/common.yaml
+/jre-*-windows-i586.exe
+/maestro-agent-*.zip
+/.tmp
+/.librarian
+/.vagrant
+/modules

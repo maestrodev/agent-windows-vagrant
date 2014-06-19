@@ -1,0 +1,6 @@
+maestro::agent::stomp_host: '10.0.2.2'
+maestro::agent::package::windows::downloaddir: 'C:\vagrant'
+
+#hosts:
+#  mycomputer:
+#    ip: '10.0.2.2'
